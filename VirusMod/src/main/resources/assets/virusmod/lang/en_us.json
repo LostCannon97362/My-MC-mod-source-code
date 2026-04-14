@@ -1,0 +1,17 @@
+{
+  "effect.virusmod.common_cold": "Common Cold",
+  "effect.virusmod.flu": "Flu",
+  "effect.virusmod.zombie_virus": "Zombie Virus",
+  "effect.virusmod.hypnotize_virus": "Hypnotize Virus",
+  "effect.virusmod.love_virus": "Love Virus",
+  "effect.virusmod.infected": "Infected",
+  "itemGroup.virusmod": "Virus Mod",
+  "item.virusmod.nfc_gem": "NFC Gem",
+  "item.virusmod.henchmen_summoner": "Henchmen Summoner",
+  "item.virusmod.love_gem": "Love Gem",
+  "item.virusmod.love_gas": "Love Gas",
+  "block.virusmod.nfc_ore": "NFC Ore",
+  "block.virusmod.deepslate_nfc_ore": "Deepslate NFC Ore",
+  "block.virusmod.love_ore": "Love Ore",
+  "block.virusmod.deepslate_love_ore": "Deepslate Love Ore"
+}
